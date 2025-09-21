@@ -21,3 +21,5 @@
 <!-- special-github-dsa-updated: layout styling (2025-09-20T20:56:00) -->
 
 <!-- special-github-dsa-updated: layout styling (2025-09-21T09:58:00) -->
+
+<!-- special-github-dsa-updated: bio details (2025-09-21T12:52:00) -->
