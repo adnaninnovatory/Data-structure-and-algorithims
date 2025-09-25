@@ -39,3 +39,5 @@
 <!-- special-github-dsa-updated: project showcase (2025-09-25T18:06:00) -->
 
 <!-- special-github-dsa-updated: bio details (2025-09-25T20:01:00) -->
+
+<!-- special-github-dsa-updated: social links (2025-09-25T18:47:00) -->
