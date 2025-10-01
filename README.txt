@@ -57,3 +57,5 @@
 <!-- special-github-dsa-updated: social links (2025-09-30T16:58:00) -->
 
 <!-- special-github-dsa-updated: technical skills (2025-09-30T15:42:00) -->
+
+<!-- special-github-dsa-updated: certificates section (2025-10-01T19:54:00) -->
