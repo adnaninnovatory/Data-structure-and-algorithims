@@ -77,3 +77,5 @@
 <!-- special-github-dsa-updated: certificates section (2025-10-05T16:53:00) -->
 
 <!-- special-github-dsa-updated: bio details (2025-10-06T10:33:00) -->
+
+<!-- special-github-dsa-updated: layout styling (2025-10-07T15:09:00) -->
