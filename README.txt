@@ -81,3 +81,5 @@
 <!-- special-github-dsa-updated: layout styling (2025-10-07T15:09:00) -->
 
 <!-- special-github-dsa-updated: bio details (2025-10-07T18:12:00) -->
+
+<!-- special-github-dsa-updated: social links (2025-10-08T15:16:00) -->
