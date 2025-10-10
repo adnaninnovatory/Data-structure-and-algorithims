@@ -85,3 +85,5 @@
 <!-- special-github-dsa-updated: social links (2025-10-08T15:16:00) -->
 
 <!-- special-github-dsa-updated: social links (2025-10-08T18:49:00) -->
+
+<!-- special-github-dsa-updated: layout styling (2025-10-10T16:13:00) -->
