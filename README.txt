@@ -101,3 +101,5 @@
 <!-- special-github-dsa-updated: bio details (2025-10-12T14:29:00) -->
 
 <!-- special-github-dsa-updated: contact info (2025-10-13T14:56:00) -->
+
+<!-- special-github-dsa-updated: project showcase (2025-10-13T18:07:00) -->
