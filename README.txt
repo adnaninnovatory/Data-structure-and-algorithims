@@ -103,3 +103,5 @@
 <!-- special-github-dsa-updated: contact info (2025-10-13T14:56:00) -->
 
 <!-- special-github-dsa-updated: project showcase (2025-10-13T18:07:00) -->
+
+<!-- special-github-dsa-updated: certificates section (2025-10-15T20:21:00) -->
