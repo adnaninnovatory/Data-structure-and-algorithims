@@ -105,3 +105,5 @@
 <!-- special-github-dsa-updated: project showcase (2025-10-13T18:07:00) -->
 
 <!-- special-github-dsa-updated: certificates section (2025-10-15T20:21:00) -->
+
+<!-- special-github-dsa-updated: social links (2025-10-15T17:10:00) -->
