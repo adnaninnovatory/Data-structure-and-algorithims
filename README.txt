@@ -121,3 +121,5 @@
 <!-- special-github-dsa-updated: certificates section (2025-10-20T15:15:00) -->
 
 <!-- special-github-dsa-updated: bio details (2025-10-21T09:31:00) -->
+
+<!-- special-github-dsa-updated: layout styling (2025-10-21T11:15:00) -->
