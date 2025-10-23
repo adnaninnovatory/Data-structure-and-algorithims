@@ -131,3 +131,5 @@
 <!-- special-github-dsa-updated: contact info (2025-10-22T16:44:00) -->
 
 <!-- special-github-dsa-updated: contact info (2025-10-23T20:52:00) -->
+
+<!-- special-github-dsa-updated: certificates section (2025-10-23T12:12:00) -->
