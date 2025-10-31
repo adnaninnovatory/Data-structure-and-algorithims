@@ -153,3 +153,5 @@
 <!-- special-github-dsa-updated: layout styling (2025-10-30T17:53:00) -->
 
 <!-- special-github-dsa-updated: technical skills (2025-10-30T20:48:00) -->
+
+<!-- special-github-dsa-updated: project showcase (2025-10-31T11:26:00) -->
