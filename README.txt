@@ -163,3 +163,5 @@
 <!-- special-github-dsa-updated: project showcase (2025-11-01T17:52:00) -->
 
 <!-- special-github-dsa-updated: layout styling (2025-11-01T18:18:00) -->
+
+<!-- special-github-dsa-updated: social links (2025-11-02T10:48:00) -->
