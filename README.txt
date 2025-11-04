@@ -167,3 +167,5 @@
 <!-- special-github-dsa-updated: social links (2025-11-02T10:48:00) -->
 
 <!-- special-github-dsa-updated: social links (2025-11-02T09:54:00) -->
+
+<!-- special-github-dsa-updated: bio details (2025-11-04T18:11:00) -->
