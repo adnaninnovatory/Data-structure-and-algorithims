@@ -183,3 +183,5 @@
 <!-- special-github-dsa-updated: project showcase (2025-11-06T18:57:00) -->
 
 <!-- special-github-dsa-updated: certificates section (2025-11-07T17:32:00) -->
+
+<!-- special-github-dsa-updated: layout styling (2025-11-07T13:00:00) -->
