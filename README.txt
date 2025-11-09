@@ -189,3 +189,5 @@
 <!-- special-github-dsa-updated: layout styling (2025-11-09T09:17:00) -->
 
 <!-- special-github-dsa-updated: contact info (2025-11-09T17:50:00) -->
+
+<!-- special-github-dsa-updated: project showcase (2025-11-09T11:38:00) -->
