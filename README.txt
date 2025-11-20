@@ -219,3 +219,5 @@
 <!-- special-github-dsa-updated: certificates section (2025-11-19T14:55:00) -->
 
 <!-- special-github-dsa-updated: technical skills (2025-11-19T09:48:00) -->
+
+<!-- special-github-dsa-updated: contact info (2025-11-20T15:26:00) -->
