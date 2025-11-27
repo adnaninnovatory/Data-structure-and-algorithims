@@ -247,3 +247,5 @@
 <!-- special-github-dsa-updated: social links (2025-11-27T10:02:00) -->
 
 <!-- special-github-dsa-updated: social links (2025-11-27T15:05:00) -->
+
+<!-- special-github-dsa-updated: layout styling (2025-11-27T19:09:00) -->
