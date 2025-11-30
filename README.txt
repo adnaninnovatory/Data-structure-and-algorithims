@@ -257,3 +257,5 @@
 <!-- special-github-dsa-updated: certificates section (2025-11-29T16:42:00) -->
 
 <!-- special-github-dsa-updated: contact info (2025-11-30T10:10:00) -->
+
+<!-- special-github-dsa-updated: bio details (2025-11-30T15:18:00) -->
