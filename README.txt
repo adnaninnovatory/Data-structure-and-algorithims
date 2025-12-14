@@ -297,3 +297,5 @@
 <!-- special-github-dsa-updated: technical skills (2025-12-12T20:58:00) -->
 
 <!-- special-github-dsa-updated: bio details (2025-12-14T12:16:00) -->
+
+<!-- special-github-dsa-updated: project showcase (2025-12-14T17:17:00) -->
