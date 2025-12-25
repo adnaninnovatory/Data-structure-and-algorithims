@@ -333,3 +333,5 @@
 <!-- special-github-dsa-updated: social links (2025-12-24T13:18:00) -->
 
 <!-- special-github-dsa-updated: social links (2025-12-24T14:51:00) -->
+
+<!-- special-github-dsa-updated: certificates section (2025-12-25T14:02:00) -->
