@@ -341,3 +341,5 @@
 <!-- special-github-dsa-updated: project showcase (2025-12-26T17:19:00) -->
 
 <!-- special-github-dsa-updated: project showcase (2025-12-26T19:26:00) -->
+
+<!-- special-github-dsa-updated: certificates section (2025-12-26T10:37:00) -->
