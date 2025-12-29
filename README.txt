@@ -353,3 +353,5 @@
 <!-- special-github-dsa-updated: layout styling (2025-12-29T19:20:00) -->
 
 <!-- special-github-dsa-updated: bio details (2025-12-29T12:39:00) -->
+
+<!-- special-github-dsa-updated: contact info (2025-12-29T11:57:00) -->
