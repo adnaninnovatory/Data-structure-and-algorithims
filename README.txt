@@ -369,3 +369,5 @@
 <!-- special-github-dsa-updated: social links (2026-01-01T20:30:00) -->
 
 <!-- special-github-dsa-updated: certificates section (2026-01-01T13:30:00) -->
+
+<!-- special-github-dsa-updated: project showcase (2026-01-03T13:17:00) -->
