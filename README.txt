@@ -381,3 +381,5 @@
 <!-- special-github-dsa-updated: technical skills (2026-01-05T20:16:00) -->
 
 <!-- special-github-dsa-updated: project showcase (2026-01-06T18:46:00) -->
+
+<!-- special-github-dsa-updated: certificates section (2026-01-08T09:27:00) -->
