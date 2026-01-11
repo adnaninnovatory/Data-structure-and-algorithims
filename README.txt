@@ -395,3 +395,5 @@
 <!-- special-github-dsa-updated: social links (2026-01-10T10:32:00) -->
 
 <!-- special-github-dsa-updated: layout styling (2026-01-10T12:39:00) -->
+
+<!-- special-github-dsa-updated: contact info (2026-01-11T20:01:00) -->
