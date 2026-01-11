@@ -399,3 +399,5 @@
 <!-- special-github-dsa-updated: contact info (2026-01-11T20:01:00) -->
 
 <!-- special-github-dsa-updated: certificates section (2026-01-11T15:08:00) -->
+
+<!-- special-github-dsa-updated: project showcase (2026-01-11T15:43:00) -->
