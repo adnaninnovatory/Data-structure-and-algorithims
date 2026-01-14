@@ -403,3 +403,5 @@
 <!-- special-github-dsa-updated: project showcase (2026-01-11T15:43:00) -->
 
 <!-- special-github-dsa-updated: bio details (2026-01-13T20:31:00) -->
+
+<!-- special-github-dsa-updated: social links (2026-01-14T16:44:00) -->
