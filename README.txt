@@ -429,3 +429,5 @@
 <!-- special-github-dsa-updated: contact info (2026-01-21T20:29:00) -->
 
 <!-- special-github-dsa-updated: layout styling (2026-01-21T16:20:00) -->
+
+<!-- special-github-dsa-updated: certificates section (2026-01-23T20:41:00) -->
