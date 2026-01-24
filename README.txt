@@ -431,3 +431,5 @@
 <!-- special-github-dsa-updated: layout styling (2026-01-21T16:20:00) -->
 
 <!-- special-github-dsa-updated: certificates section (2026-01-23T20:41:00) -->
+
+<!-- special-github-dsa-updated: social links (2026-01-24T12:58:00) -->
