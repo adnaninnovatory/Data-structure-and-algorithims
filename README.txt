@@ -437,3 +437,5 @@
 <!-- special-github-dsa-updated: technical skills (2026-01-24T16:06:00) -->
 
 <!-- special-github-dsa-updated: project showcase (2026-01-25T18:39:00) -->
+
+<!-- special-github-dsa-updated: social links (2026-01-25T13:48:00) -->
