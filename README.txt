@@ -447,3 +447,5 @@
 <!-- special-github-dsa-updated: contact info (2026-01-26T09:40:00) -->
 
 <!-- special-github-dsa-updated: social links (2026-01-28T12:56:00) -->
+
+<!-- special-github-dsa-updated: project showcase (2026-01-29T09:19:00) -->
