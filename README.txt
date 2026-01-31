@@ -459,3 +459,5 @@
 <!-- special-github-dsa-updated: social links (2026-01-30T09:41:00) -->
 
 <!-- special-github-dsa-updated: certificates section (2026-01-31T13:29:00) -->
+
+<!-- special-github-dsa-updated: bio details (2026-01-31T14:57:00) -->
