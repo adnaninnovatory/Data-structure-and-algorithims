@@ -499,3 +499,5 @@
 <!-- special-github-dsa-updated: technical skills (2026-02-09T17:34:00) -->
 
 <!-- special-github-dsa-updated: social links (2026-02-10T18:28:00) -->
+
+<!-- special-github-dsa-updated: contact info (2026-02-10T10:30:00) -->
