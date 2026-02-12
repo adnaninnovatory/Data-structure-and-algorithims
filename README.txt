@@ -501,3 +501,5 @@
 <!-- special-github-dsa-updated: social links (2026-02-10T18:28:00) -->
 
 <!-- special-github-dsa-updated: contact info (2026-02-10T10:30:00) -->
+
+<!-- special-github-dsa-updated: project showcase (2026-02-12T16:46:00) -->
