@@ -513,3 +513,5 @@
 <!-- special-github-dsa-updated: layout styling (2026-02-14T13:11:00) -->
 
 <!-- special-github-dsa-updated: bio details (2026-02-15T14:45:00) -->
+
+<!-- special-github-dsa-updated: project showcase (2026-02-15T14:57:00) -->
