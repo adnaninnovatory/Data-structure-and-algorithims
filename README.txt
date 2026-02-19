@@ -529,3 +529,5 @@
 <!-- special-github-dsa-updated: project showcase (2026-02-19T13:23:00) -->
 
 <!-- special-github-dsa-updated: technical skills (2026-02-19T16:36:00) -->
+
+<!-- special-github-dsa-updated: bio details (2026-02-19T19:50:00) -->
