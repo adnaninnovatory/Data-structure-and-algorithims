@@ -533,3 +533,5 @@
 <!-- special-github-dsa-updated: bio details (2026-02-19T19:50:00) -->
 
 <!-- special-github-dsa-updated: contact info (2026-02-20T10:12:00) -->
+
+<!-- special-github-dsa-updated: social links (2026-02-22T11:38:00) -->
