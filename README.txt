@@ -567,3 +567,5 @@
 <!-- special-github-dsa-updated: technical skills (2026-03-02T14:38:00) -->
 
 <!-- special-github-dsa-updated: contact info (2026-03-02T17:40:00) -->
+
+<!-- special-github-dsa-updated: bio details (2026-03-04T20:09:00) -->
