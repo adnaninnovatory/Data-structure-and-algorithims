@@ -573,3 +573,5 @@
 <!-- special-github-dsa-updated: contact info (2026-03-04T14:33:00) -->
 
 <!-- special-github-dsa-updated: project showcase (2026-03-05T18:21:00) -->
+
+<!-- special-github-dsa-updated: social links (2026-03-06T20:04:00) -->
