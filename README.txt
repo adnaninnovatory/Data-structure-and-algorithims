@@ -591,3 +591,5 @@
 <!-- special-github-dsa-updated: certificates section (2026-03-11T11:18:00) -->
 
 <!-- special-github-dsa-updated: project showcase (2026-03-11T09:31:00) -->
+
+<!-- special-github-dsa-updated: bio details (2026-03-11T15:09:00) -->
