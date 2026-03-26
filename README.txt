@@ -633,3 +633,5 @@
 <!-- special-github-dsa-updated: certificates section (2026-03-24T14:26:00) -->
 
 <!-- special-github-dsa-updated: technical skills (2026-03-25T09:20:00) -->
+
+<!-- special-github-dsa-updated: bio details (2026-03-26T16:11:00) -->
