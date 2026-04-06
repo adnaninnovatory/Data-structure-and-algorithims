@@ -671,3 +671,5 @@
 <!-- special-github-dsa-updated: contact info (2026-04-05T14:30:00) -->
 
 <!-- special-github-dsa-updated: technical skills (2026-04-06T18:15:00) -->
+
+<!-- special-github-dsa-updated: social links (2026-04-06T20:12:00) -->
