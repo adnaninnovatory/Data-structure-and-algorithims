@@ -691,3 +691,5 @@
 <!-- special-github-dsa-updated: project showcase (2026-04-13T20:12:00) -->
 
 <!-- special-github-dsa-updated: contact info (2026-04-13T13:52:00) -->
+
+<!-- special-github-dsa-updated: certificates section (2026-04-13T10:16:00) -->
