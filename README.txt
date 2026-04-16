@@ -705,3 +705,5 @@
 <!-- special-github-dsa-updated: social links (2026-04-16T09:53:00) -->
 
 <!-- special-github-dsa-updated: bio details (2026-04-16T19:24:00) -->
+
+<!-- special-github-dsa-updated: project showcase (2026-04-16T20:13:00) -->
