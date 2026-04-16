@@ -703,3 +703,5 @@
 <!-- special-github-dsa-updated: layout styling (2026-04-15T16:35:00) -->
 
 <!-- special-github-dsa-updated: social links (2026-04-16T09:53:00) -->
+
+<!-- special-github-dsa-updated: bio details (2026-04-16T19:24:00) -->
