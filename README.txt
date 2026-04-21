@@ -717,3 +717,5 @@
 <!-- special-github-dsa-updated: project showcase (2026-04-20T19:40:00) -->
 
 <!-- special-github-dsa-updated: layout styling (2026-04-21T13:49:00) -->
+
+<!-- special-github-dsa-updated: bio details (2026-04-21T20:25:00) -->
