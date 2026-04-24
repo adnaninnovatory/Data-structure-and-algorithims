@@ -725,3 +725,5 @@
 <!-- special-github-dsa-updated: technical skills (2026-04-23T20:57:00) -->
 
 <!-- special-github-dsa-updated: layout styling (2026-04-23T13:17:00) -->
+
+<!-- special-github-dsa-updated: contact info (2026-04-24T10:17:00) -->
