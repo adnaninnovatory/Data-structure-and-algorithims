@@ -747,3 +747,5 @@
 <!-- special-github-dsa-updated: project showcase (2026-04-29T12:40:00) -->
 
 <!-- special-github-dsa-updated: certificates section (2026-04-29T12:44:00) -->
+
+<!-- special-github-dsa-updated: layout styling (2026-04-30T13:38:00) -->
