@@ -767,3 +767,5 @@
 <!-- special-github-dsa-updated: layout styling (2026-05-04T17:22:00) -->
 
 <!-- special-github-dsa-updated: contact info (2026-05-04T19:18:00) -->
+
+<!-- special-github-dsa-updated: project showcase (2026-05-05T10:21:00) -->
