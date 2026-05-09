@@ -775,3 +775,5 @@
 <!-- special-github-dsa-updated: contact info (2026-05-08T17:41:00) -->
 
 <!-- special-github-dsa-updated: certificates section (2026-05-08T20:34:00) -->
+
+<!-- special-github-dsa-updated: bio details (2026-05-09T13:19:00) -->
