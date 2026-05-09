@@ -777,3 +777,5 @@
 <!-- special-github-dsa-updated: certificates section (2026-05-08T20:34:00) -->
 
 <!-- special-github-dsa-updated: bio details (2026-05-09T13:19:00) -->
+
+<!-- special-github-dsa-updated: project showcase (2026-05-09T17:51:00) -->
