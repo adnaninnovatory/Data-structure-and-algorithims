@@ -803,3 +803,5 @@
 <!-- special-github-dsa-updated: technical skills (2026-05-16T09:54:00) -->
 
 <!-- special-github-dsa-updated: bio details (2026-05-18T20:33:00) -->
+
+<!-- special-github-dsa-updated: layout styling (2026-05-18T10:38:00) -->
