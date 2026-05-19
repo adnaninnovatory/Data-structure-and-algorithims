@@ -809,3 +809,5 @@
 <!-- special-github-dsa-updated: technical skills (2026-05-19T14:00:00) -->
 
 <!-- special-github-dsa-updated: social links (2026-05-19T19:45:00) -->
+
+<!-- special-github-dsa-updated: certificates section (2026-05-19T16:07:00) -->
