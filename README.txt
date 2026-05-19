@@ -807,3 +807,5 @@
 <!-- special-github-dsa-updated: layout styling (2026-05-18T10:38:00) -->
 
 <!-- special-github-dsa-updated: technical skills (2026-05-19T14:00:00) -->
+
+<!-- special-github-dsa-updated: social links (2026-05-19T19:45:00) -->
