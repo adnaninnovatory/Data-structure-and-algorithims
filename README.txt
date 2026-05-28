@@ -843,3 +843,5 @@
 <!-- special-github-dsa-updated: layout styling (2026-05-26T14:41:00) -->
 
 <!-- special-github-dsa-updated: bio details (2026-05-28T12:14:00) -->
+
+<!-- special-github-dsa-updated: contact info (2026-05-28T09:00:00) -->
